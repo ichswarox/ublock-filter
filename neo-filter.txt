@@ -1,0 +1,71 @@
+! Title: Disable Accessibility
+! Expires: 4 days
+! Homepage: https://github.com/FindHao/disable_accessibility
+! Licence: https://github.com/FindHao/disable_accessibility/blob/main/LICENSE
+! 
+! Description: Disable website accessibility design
+! Email (find@findhao.net)
+!--------------------------General blocking filters---------------------------!
+!------------------------General element hiding rules-------------------------!
+!-----------------------------Union&third-party-------------------------------!
+!---------------------------Popups--------------------------------------------!
+!--------------------------Specific blocking filters--------------------------!
+! taobao
+*.com/dinamic/barrier-free
+! sina
+a.sinaimg.cn/mintra/pic/*/wza/_aria.js
+! baidu
+baidu/aging-tools*.js
+iknowpc.bdimg.com/static/common/wza/aria.js
+zhihu.com/event/wza/*
+
+
+!--------------------------empty--------------------------!
+
+! 2022-11-15 https://www.ddnsto.com
+www.ddnsto.com##.coverup
+
+! 2023-01-11 https://www.aliyundrive.com
+www.aliyundrive.com##.logo--2ACPn
+
+! 2023-01-31 https://www.aliyundrive.com
+||gw.alicdn.com/imgextra/i2/O1CN012zI3pB1XLS21rJ9Je_!!6000000002907-55-tps-108-24.svg$image
+
+! 2023-02-02 https://docs.qq.com
+||docs.gtimg.com/docs-design-resources/pc/svg/list_logo-27e58348b7.svg$image
+
+! 2023-03-05 https://woodmart.xtemos.com
+woodmart.xtemos.com##.xtemos-text-demo
+woodmart.xtemos.com##.xtemos-demo-count
+woodmart.xtemos.com##.xtemos-show-demos.xtemos-show-demos-preview
+woodmart.xtemos.com##.buy-woodmart > span
+woodmart.xtemos.com##.buy-woodmart
+
+! 2023-03-10 https://ohio.clbthemes.com
+||colabrio.ams3.cdn.digitaloceanspaces.com/ohio-stage-demo-17/gl50Sv6D-OhioLogo.svg$image
+||colabrio.ams3.cdn.digitaloceanspaces.com/ohio-stage-demo-12/gl50Sv6D-OhioLogo.svg$image
+||colabrio.ams3.cdn.digitaloceanspaces.com/stage.clbthemes.com/LitFhpPB-OhioLogo.svg$image
+
+! 2023-03-10 https://www.upwork.com
+www.upwork.com###jobs_completed_desktop > div > div.border-bottom.assignments-item > div > .row.py-20.assignments-item-bg > .col > .mb-lg-10.mb-20
+www.upwork.com###jobs_completed_desktop > div > div.border-bottom.assignments-item > div > .row.py-20.assignments-item-bg > .col > .mt-lg-10.mt-20.row > div.col-4 > strong
+www.upwork.com###jobs_completed_desktop > div > div.border-bottom.assignments-item > div > .row.py-20.assignments-item-bg > .col > .mt-lg-10.mt-20.row > div.col-4
+
+! 2023-03-10 https://woodmart.xtemos.com
+||z9d7c4u6.rocketcdn.me/wp-content/uploads/2018/10/organic-1-1-opt.jpg?id=24118$image
+
+! 2023-03-12 https://woodmart.xtemos.com
+||woodmart.xtemos.com/wp-content/uploads/2021/05/w-smart-home-logo.svg$image
+||woodmart.xtemos.com/wp-content/uploads/2021/06/w-education-logo.svg$image
+
+! 2023-03-15 https://woodmart.xtemos.com
+||z9d7c4u6.rocketcdn.me/wp-content/themes/woodmart/images/wood-logo-dark.svg$image
+
+! 2023-04-24 https://www.baidu.com
+www.baidu.com###con-ar
+
+! 2023-05-16 https://www.bilibili.com
+www.bilibili.com##.van-popover__reference.video-share
+
+! 2023-05-17 https://www.artstation.com
+www.artstation.com##.is-clickable.marketplace-card

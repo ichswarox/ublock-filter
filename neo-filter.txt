@@ -49,23 +49,9 @@ woodmart.xtemos.com##.buy-woodmart
 ! 2023-03-10 https://www.upwork.com
 www.upwork.com###jobs_completed_desktop > div > div.border-bottom.assignments-item > div > .row.py-20.assignments-item-bg > .col > .mb-lg-10.mb-20
 www.upwork.com###jobs_completed_desktop > div > div.border-bottom.assignments-item > div > .row.py-20.assignments-item-bg > .col > .mt-lg-10.mt-20.row > div.col-4 > strong
-www.upwork.com###jobs_completed_desktop > div > div.border-bottom.assignments-item > div > .row.py-20.assignments-item-bg > .col > .mt-lg-10.mt-20.row > div.col-4
-
-! 2023-03-10 https://woodmart.xtemos.com
-||z9d7c4u6.rocketcdn.me/wp-content/uploads/2018/10/organic-1-1-opt.jpg?id=24118$image
-
-! 2023-03-12 https://woodmart.xtemos.com
-||woodmart.xtemos.com/wp-content/uploads/2021/05/w-smart-home-logo.svg$image
-||woodmart.xtemos.com/wp-content/uploads/2021/06/w-education-logo.svg$image
-
-! 2023-03-15 https://woodmart.xtemos.com
-||z9d7c4u6.rocketcdn.me/wp-content/themes/woodmart/images/wood-logo-dark.svg$image
-
-! 2023-04-24 https://www.baidu.com
-www.baidu.com###con-ar
-
-! 2023-05-16 https://www.bilibili.com
-www.bilibili.com##.van-popover__reference.video-share
+www.upwork.com##
 
 ! 2023-05-17 https://www.artstation.com
-www.artstation.com##.is-clickable.marketplace-card
+www.artstation.com##external-resource-banner
+www.artstation.com##.project-actions-user
+
